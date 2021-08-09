@@ -6,9 +6,9 @@ As Senior Writer at the educational mobile app Google Primer, I’m responsible 
 <br />
 Since Primer is an educational app, its lesson content is essential. My job is to turn complex business topics into short, 5-minute lessons that are easy for anyone to understand and swiftly apply in their real-life business or career. Each lesson includes easily digestible cards, plus interactions that I write and code in JSON. 
 <br />
-![scaryprimer](images/scaryprimer.png)
+![](images/scaryprimer.png)
 <br />
-![remoteprimer](images/scaryprimer.png)
+![](images/scaryprimer.png)
 <br />
 ---
 <br />
