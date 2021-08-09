@@ -17,7 +17,7 @@ Since Primer is an educational app, its lesson content is essential. My job is t
 In addition to producing creative content, I'm responsible for all of Primer’s product and marketing copy. During my time at Primer, I have overseen several major product updates, including the creation of a searchable lesson catalog, the addition of new skills, and an update of our onboarding process: 
 
 ### Searchable lesson catalog
-Previously, the only way to explore Primer’s offerings was to download the app. To make our content more searchable, I lead an effort to overhaul our website. I chose the heading “Lesson Catalog,” and created brief descriptions of Primer’s skills (e.g. Workplace Inclusivity, Career Development, Staffing) and of the macrocategories these skills belong to (e.g. Business & Operations, Brand & Identity), all the while mindful of keywords, SEO, and behavioral science.
+Previously, the only way to explore Primer’s offerings was to download the app. To make our content more searchable, I led an effort to overhaul our website. I chose the heading “Lesson Catalog,” and created brief descriptions of Primer’s skills (e.g. Workplace Inclusivity, Career Development, Staffing) and of the macrocategories these skills belong to (e.g. Business & Operations, Brand & Identity), all the while mindful of keywords, SEO, and behavioral science.
 <br />
 <br />
 
