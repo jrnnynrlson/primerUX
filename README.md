@@ -1,5 +1,5 @@
 ![Illustration of woman holding up a phone with the Primer logo](images/primerheader.png)
-# Google Primer - Content, Product & UX, Marketing (2018-2023)
+# Google Primer app
 <br />
 
 As Senior Writer at the educational mobile app Google Primer, I was responsible for producing all creative content, product & UX copy, and marketing materials. I worked with a small team, collaborating daily with product, design, and marketing specialists. Primer was available in over 10 languages and even more locations around the world, meaning the copy I wrote needed to be easily translatable and applicable to the professional lives of a variety of international audiences.
