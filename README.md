@@ -5,7 +5,7 @@
 As Senior Writer at the educational mobile app Google Primer, I was responsible for producing all creative content, product & UX copy, and marketing materials. I worked with a small team, collaborating daily with product, design, and marketing specialists. Primer was available in over 10 languages and even more locations around the world, meaning the copy I wrote needed to be easily translatable and applicable to the professional lives of a variety of international audiences.
 <br />
 <br />
-Since Primer was an educational app, its lesson content was essential. My job was to turn complex business topics into short, 5-minute lessons that anyone could understand and quickly apply to their business or career. Each lesson included easily digestible cards, plus interactions that I write and code in JSON. 
+Since Primer was an educational app, its lesson content was essential. My job was to turn complex business topics into short, 5-minute lessons that anyone could understand and quickly apply to their business or career. Each lesson included easily digestible cards, plus interactions that I wrote and coded in JSON. 
 <br />
 
 ![Mobile messaging in-app lesson card](images/scaryprimer.png)
