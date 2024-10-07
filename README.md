@@ -43,8 +43,6 @@ To further personalize the app experience for users, we added 4 distinct persona
 
 ![Introductory onboarding screen](images/onboard1.jpg)
 ![Persona selector onboarding screen](images/onboard2.jpg)
-![Skill selector onboarding screen](images/onboard3.jpg)
-!["You’re all set" onboarding screen](images/onboard4.jpg)
 <br />
 ---
 Finally, in addition to writing short copy, I turned Primer lessons into longer-form pieces which I have ghostwritten for the Google’s marketing blog Think with Google (link in image below).
