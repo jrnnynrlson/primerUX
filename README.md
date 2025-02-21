@@ -48,4 +48,4 @@ To further personalize the app experience for users, we added 4 distinct persona
 Finally, in addition to writing short copy, I turned Primer lessons into longer-form pieces which I have ghostwritten for the Google’s marketing blog Think with Google (link in image below).
 <br/>
 
-[![Screenshot of Think with Google Primer article on inclusive meetings](images/primer_meetings.png)](https://www.thinkwithgoogle.com/future-of-marketing/management-and-culture/diversity-and-inclusion/run-inclusive-meetings/)
+[![Screenshot of Think with Google Primer article on inclusive meetings](images/primer_meetings.png)](https://jrnnynrlson.github.io/primerUX/thinkwithgoogleinclusivemeetings.pdf)
